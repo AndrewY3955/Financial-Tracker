@@ -1,6 +1,6 @@
-# FinTrack - Personal Financial Tracker
+# Financial Tracker - Personal Financial Tracker
 
-FinTrack is a simple, web-based financial management application that helps users track their spending, manage budgets, and organize their financial goals.
+Financial Tracker is a simple, web-based financial management application that helps users track their spending, manage budgets, and organize their financial goals.
 
 ## Features
 
@@ -13,7 +13,7 @@ FinTrack is a simple, web-based financial management application that helps user
 
 ## How It Works
 
-FinTrack stores all your financial data locally in your browser using `localStorage`. When you add transactions or budgets, they are saved automatically and persist even after you close the browser.
+Financial Tracker stores all your financial data locally in your browser using `localStorage`. When you add transactions or budgets, they are saved automatically and persist even after you close the browser.
 
 ### Core Functionality
 
