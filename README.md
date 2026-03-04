@@ -53,7 +53,7 @@ No installation, server, or build process required—just open and use!
 
 ## Data Structure
 
-All data is stored in `localStorage` under the key `"fintrack"` with the following structure:
+All data is stored in `localStorage` under the key `"financial tracker"` with the following structure:
 
 ```json
 {
