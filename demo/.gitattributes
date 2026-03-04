@@ -1,0 +1,12 @@
+# Normalize line endings for text files
+* text=auto
+
+# Explicit rules
+*.java text
+*.html text
+*.css text
+*.js text
+*.json text
+*.yaml text
+*.yml text
+*.md text

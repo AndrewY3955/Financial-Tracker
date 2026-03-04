@@ -1,0 +1,41 @@
+# Maven / Java
+target/
+.mvn/wrapper/maven-wrapper.jar
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ / VS Code / Eclipse / NetBeans
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.classpath
+.project
+.apt_generated
+.factorypath
+.springBeans
+.nb-gradle/
+nbproject/private/
+build/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Postgres / env files / secrets
+.env
+application.properties
+application-*.properties
+
+# Ignore compiled and generated files
+**/target/
+**/build/
+
+# Ignore any local test outputs
+*.dump
+*.log
