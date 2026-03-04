@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Maven / Java
 target/
 .mvn/wrapper/maven-wrapper.jar
@@ -39,3 +40,35 @@ application-*.properties
 # Ignore any local test outputs
 *.dump
 *.log
+=======
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+*.classpath
+*.project
+*.settings/
+
+# VS Code
+.vscode/
+
+# Maven
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle (if applicable)
+build/
+
+# Spring Boot sensitive files
+src/main/resources/application.properties
+src/main/resources/application.yml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Ignore properties with secrets
+/src/main/resources/application.properties
+>>>>>>> fa825c0 (Remove local auth, prep for outsourced auth; hide secrets)
