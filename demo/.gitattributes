@@ -9,5 +9,6 @@
 *.json text
 *.yaml text
 *.yml text
-*.md text/mvnw text eol=lf
+*.md text
+/mvnw text eol=lf
 *.cmd text eol=crlf
